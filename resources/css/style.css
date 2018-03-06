@@ -96,7 +96,7 @@ nav span {
 /* Location Styles */
 
 #locations{
-  background-image: url("/Users/Julian/projects/Tea_Cozy/resources/images/coffee_table.jpg");
+  background-image: url("../images/coffee_table.jpg");
   height: 500px;
   padding-top: 70px;
 }
